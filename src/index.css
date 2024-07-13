@@ -16,6 +16,8 @@ body {
   top: 50%;
   transform: translate(-50%, -50%);
   opacity: 0;
+  overflow: hidden;
+
 }
 .glass {
   height: 350px;
